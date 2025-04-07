@@ -1,4 +1,4 @@
-package com.vidhyoday.scala.design
+package com.vidhyoday.scala.design.oop
 
 object ScalaDesign {
   def main(args: Array[String]): Unit = {

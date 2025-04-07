@@ -1,4 +1,4 @@
-package com.vidhyoday.scala.design.head.first.strategy
+package com.vidhyoday.scala.design.oop.head.first.strategy
 
 object MiniDuckSimulator {
   def main(args: Array[String]): Unit = {
