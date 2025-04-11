@@ -1,9 +1,8 @@
-package com.vidhyoday.scala.design.fp.head.first.stategy
+package com.vidhyoday.scala.design.fp.head.first.strategy
+import Behaviors._
 
 object DuckSimulatorMain extends App {
-
-  import Behaviors._
-
+  
   val mallard = Duck(flyWithWings, quack, () => println("I'm a real Mallard duck"))
   mallard.performQuack()
   mallard.performFly()

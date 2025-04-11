@@ -1,4 +1,4 @@
-package com.vidhyoday.scala.design.fp.head.first.stategy
+package com.vidhyoday.scala.design.fp.head.first.strategy
 
 case class Duck(
                  flyBehavior: () => Unit,

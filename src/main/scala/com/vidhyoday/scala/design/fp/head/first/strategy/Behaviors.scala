@@ -1,4 +1,4 @@
-package com.vidhyoday.scala.design.fp.head.first.stategy
+package com.vidhyoday.scala.design.fp.head.first.strategy
 
 object Behaviors {
   val flyWithWings: () => Unit = () => println("I'm flying with wings!")
